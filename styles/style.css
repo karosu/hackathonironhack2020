@@ -1,7 +1,7 @@
 body {
   color: #999;
   background: #f3f3f3;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 .form-control {
   border-color: #eee;
@@ -13,7 +13,7 @@ body {
 }
 .form-control,
 .btn {
-  border-radius: 3px;
+  border-radius: 4px;
 }
 .signup-form {
   width: 500px;
@@ -80,4 +80,8 @@ body {
 #buttons {
   background: #fff;
   color: #79c5e7;
+}
+
+#navbar {
+  background: #79c5e7;
 }
